@@ -39,7 +39,7 @@ OK
 
 ## 質問があるのですが
 
-ISSUEの #2 質問スレまでどうぞ
+ISSUEの [#2 質問スレ](https://github.com/hachiojipm/yapcasia-8oji-2016mid-timetable/issues/2) までどうぞ
 
 ## Githubアカウントをもっていません
 
